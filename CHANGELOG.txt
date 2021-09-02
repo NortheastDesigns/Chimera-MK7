@@ -1,3 +1,18 @@
+0.71
+
+Parts Added: Cheek Guard K18/K24/LS, Plunger K18/K24/LS, K18 Spacer Mid, K18 Spacer Max, K25 Spacer Mid, K25 Spacer Max.
+
+-Alternate Cheek Guard & Plunger added for the use of K18, K24, and certain Longshot springs. Alternate spring spacers also added for this new springrest. With a K18, you should get about 
+190 FPS flat with no spacer, ~200 FPS with the "mid" spacer, and ~215 FPS with the "max" spacer.
+
+Parts Updated: ST Receiver, AT Receiver, ST Mag Release, AT Mag Release, Muzzle
+
+-Both Receivers updated to add wedges to better hold the priming bars in their slots, and to make the bar mounting points slotted. Slide the bar back to rest against the receiver before 
+tightening down, so that the force of priming is taken by the whole receiver instead of just the mounting screws.
+-Both Mag Releases updated slightly to prevent accidental mag drops
+-Muzzle Top Mounting Point is now slotted, allowing for slight variations in aluminum top bars.
+
+
 8/14/2021 0.70
 
 BETA Fileset and HW Kits released, many updates to come soon!
